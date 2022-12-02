@@ -140,6 +140,7 @@ const Main = () => {
                                 name='home'
                                 type='font-awesome'
                                 size={24}
+                                iconStyle={{ width: 24 }}
                                 color={color}
                             />
                         )
@@ -155,6 +156,7 @@ const Main = () => {
                                 name='list'
                                 type='font-awesome'
                                 size={24}
+                                iconStyle={{ width: 24 }}
                                 color={color}
                             />
                         )
@@ -170,6 +172,7 @@ const Main = () => {
                                 name='info-circle'
                                 type='font-awesome'
                                 size={24}
+                                iconStyle={{ width: 24 }}
                                 color={color}
                             />
                         )
@@ -185,6 +188,7 @@ const Main = () => {
                                 name='address-card'
                                 type='font-awesome'
                                 size={24}
+                                iconStyle={{ width: 24 }}
                                 color={color}
                             />
                         )
